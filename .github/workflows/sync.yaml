@@ -1,0 +1,36 @@
+name: Sync
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron:  '15 3 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README
+        run: npm run sync
+
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "🤖 README Bot"
+          git add -A
+          git commit -m "Update README.md" || exit 0
+          git push

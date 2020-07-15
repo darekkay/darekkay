@@ -1,0 +1,25 @@
+{
+  "name": "darekkay",
+  "description": "GitHub profile repository",
+  "version": "1.0.0",
+  "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
+  "bugs": {
+    "url": "https://github.com/darekkay/darekkay/issues"
+  },
+  "homepage": "https://github.com/darekkay/darekkay#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "sync.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekkay/darekkay.git"
+  },
+  "scripts": {
+    "sync": "node sync.js"
+  },
+  "dependencies": {
+    "axios": "0.19.2",
+    "xml2js": "0.4.23"
+  }
+}
