@@ -1,7 +1,5 @@
 name: Sync
 on:
-  push:
-    branches: [master]
   schedule:
     - cron:  '15 3 * * *'
 
