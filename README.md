@@ -19,3 +19,15 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 - [Running Storybook from a separate folder](https://darekkay.com/blog/storybook-separate-folder/)
 
 <!-- @end-blog-posts -->
+
+👉️ [View all blog posts](https://darekkay.com/blog/)
+
+### Latest photo 📷️
+
+<!-- @begin-photo -->
+
+<img src='https://photos.darekkay.com/photo/0030-small.jpg' alt='A silhouette of a swimming duck, sundown reflection on the water.' />
+
+<!-- @end-photo -->
+
+👉️ [View all photos](https://darekkay.com/projects/)
