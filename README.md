@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0030-small.jpg' alt='A silhouette of a swimming duck, sundown reflection on the water.' />
+<img src='https://photos.darekkay.com/photo/0031-small.jpg' alt='A grey heron in front of a big graffiti. The graffiti depicts a big &quot;A.C.A.B.&quot; logo and a cat showing the middle finger. It appears as if the cat points the middle finger at the grey heron.' />
 
 <!-- @end-photo -->
 
