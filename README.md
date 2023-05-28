@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0031-small.jpg' alt='A grey heron in front of a big graffiti. The graffiti depicts a big &quot;A.C.A.B.&quot; logo and a cat showing the middle finger. It appears as if the cat points the middle finger at the grey heron.' />
+<img src='https://photos.darekkay.com/photo/0033-small.jpg' alt='Basilica of Sacré-Coeur de Montmartre at sunrise.' />
 
 <!-- @end-photo -->
 
