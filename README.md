@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0033-small.jpg' alt='Basilica of Sacré-Coeur de Montmartre at sunrise.' />
+<img src='https://photos.darekkay.com/photo/0034-small.jpg' alt='A yellow-red full moon' />
 
 <!-- @end-photo -->
 
