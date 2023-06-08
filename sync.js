@@ -21,10 +21,9 @@ const syncLatestBlogPosts = async (readmeContent) => {
 };
 
 const syncLatestPhoto = async (readmeContent) => {
-  const URL_BLOG_FEED = "https://photos.darekkay.com/feed.json";
-  const response = await axios.get(URL_BLOG_FEED);
-  const feed = response.data;
-  const latestPhoto = feed.items[0];
+  const URL_LATEST_PHOTO = "https://photos.darekkay.com/latest.json";
+  const response = await axios.get(URL_LATEST_PHOTO);
+  const latestPhoto = response.data;
 
   return readmeContent.replace(
     /<!-- @begin-photo -->([\s\S]*)<!-- @end-photo -->/,
