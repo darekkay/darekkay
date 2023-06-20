@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0035-small.jpg' alt='A French photo booth with a &#39;photographies&#39; sign. A woman with a hat stands in front of it. Her face is reflected in a mirror attached to the photo booth.' />
+<img src='https://photos.darekkay.com/photo/0036-small.jpg' alt='A red poppy at sundown. The poppy covers the sun partially.' />
 
 <!-- @end-photo -->
 
