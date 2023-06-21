@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
 - [Fixing long start-up times of the Eleventy dev server](https://darekkay.com/blog/eleventy-browsersync-issue/)
 - [Handling Enzyme in React 18](https://darekkay.com/blog/react-18-enzyme/)
-- [Running Storybook from a separate folder](https://darekkay.com/blog/storybook-separate-folder/)
 
 <!-- @end-blog-posts -->
 
