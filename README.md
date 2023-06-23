@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0036-small.jpg' alt='A red poppy at sundown. The poppy covers the sun partially.' />
+<img src='https://photos.darekkay.com/photo/0037-small.jpg' alt='Two Canada geese swimming on a river in front of a cityscape.' />
 
 <!-- @end-photo -->
 
