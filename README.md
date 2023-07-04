@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [My personal one-pager](https://darekkay.com/blog/personal-one-pager/)
 - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
 - [Fixing long start-up times of the Eleventy dev server](https://darekkay.com/blog/eleventy-browsersync-issue/)
-- [Handling Enzyme in React 18](https://darekkay.com/blog/react-18-enzyme/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0037-small.jpg' alt='Two Canada geese swimming on a river in front of a cityscape.' />
+<img src='https://photos.darekkay.com/photo/0038-small.jpg' alt='A common lizard sitting on the ground, looking into the camera.' />
 
 <!-- @end-photo -->
 
