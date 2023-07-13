@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0039-small.jpg' alt='Trash can with a sign of a smoking cigarette pointing to the opening of the trash can. A butterfly sits right at the cigarette sign.' />
+<img src='https://photos.darekkay.com/photo/0040-small.jpg' alt='A hover fly hovering next to a thistle plant.' />
 
 <!-- @end-photo -->
 
