@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0040-small.jpg' alt='A hover fly hovering next to a thistle plant.' />
+<img src='https://photos.darekkay.com/photo/0041-small.jpg' alt='An empty boat on water. Behind it, there is a sandbank and a coast with trees.' />
 
 <!-- @end-photo -->
 
