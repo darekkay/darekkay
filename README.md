@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0042-small.jpg' alt='A kitesurfer on water holding a kite steering bar. The kite is not in the picture. The movement creates splashes of water. In the background, there is a coast with trees.' />
+<img src='https://photos.darekkay.com/photo/0043-small.jpg' alt='A cityscape silhouette with big clouds above it. Beams of sunlight come through the clouds, hitting the cityscape.' />
 
 <!-- @end-photo -->
 
