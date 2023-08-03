@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0043-small.jpg' alt='A cityscape silhouette with big clouds above it. Beams of sunlight come through the clouds, hitting the cityscape.' />
+<img src='https://photos.darekkay.com/photo/0044-small.jpg' alt='A bumblebee and a yellow insect sitting on a yellow flower. A green background provides a fitting contrast.' />
 
 <!-- @end-photo -->
 
