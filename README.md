@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0044-small.jpg' alt='A bumblebee and a yellow insect sitting on a yellow flower. A green background provides a fitting contrast.' />
+<img src='https://photos.darekkay.com/photo/0045-small.jpg' alt='A BMX rider up in the air. Their hands are touching the handlebars, their legs are away from the pedals.' />
 
 <!-- @end-photo -->
 
