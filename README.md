@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0045-small.jpg' alt='A BMX rider up in the air. Their hands are touching the handlebars, their legs are away from the pedals.' />
+<img src='https://photos.darekkay.com/photo/0046-small.jpg' alt='An undead knight with a sword and a shield carved out of a tree stump.' />
 
 <!-- @end-photo -->
 
