@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Delaying asset requests in Eleventy](https://darekkay.com/blog/eleventy-delay-middleware/)
 - [My personal one-pager](https://darekkay.com/blog/personal-one-pager/)
 - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
-- [Fixing long start-up times of the Eleventy dev server](https://darekkay.com/blog/eleventy-browsersync-issue/)
 
 <!-- @end-blog-posts -->
 
