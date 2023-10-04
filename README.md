@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0046-small.jpg' alt='An undead knight with a sword and a shield carved out of a tree stump.' />
+<img src='https://photos.darekkay.com/photo/0047-small.jpg' alt='A water channel at night. Light lamps on both sides of the channel illuminate the sidewalks. A blue light shines in the background and is reflected in the water. A few stars are visible in the sky.' />
 
 <!-- @end-photo -->
 
