@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0047-small.jpg' alt='A water channel at night. Light lamps on both sides of the channel illuminate the sidewalks. A blue light shines in the background and is reflected in the water. A few stars are visible in the sky.' />
+<img src='https://photos.darekkay.com/photo/0048-small.jpg' alt='Nighttime shot of bollards on a street. Red lights warn about the barrier. A few streetlamps provide little light. In the background, there is a human silhouette in blue light, contrasting the dark red mood of the image.' />
 
 <!-- @end-photo -->
 
