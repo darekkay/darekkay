@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0049/0049-small.webp' alt='A blue dragonfly sitting on a grass seed head. The dragonfly appears to be looking at the viewer.' />
+<img src='https://photos.darekkay.com/photo/0050/0050-small.webp' alt='A woman holding an umbrella walks on a sidewalk at night. A chain of lightbulbs illuminates the scene.' />
 
 <!-- @end-photo -->
 
