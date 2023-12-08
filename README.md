@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0050/0050-small.webp' alt='A woman holding an umbrella walks on a sidewalk at night. A chain of lightbulbs illuminates the scene.' />
+<img src='https://photos.darekkay.com/photo/0051/0051-small.webp' alt='A curved train station. A blue/yellow train stands on the left side. A person with dark clothes and short blond hair walks away from the camera. The pillars of the train station form a curve.' />
 
 <!-- @end-photo -->
 
