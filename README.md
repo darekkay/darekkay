@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Video subtitles, captions, audio descriptions and transcripts](https://darekkay.com/blog/video-subtitles-closed-captions-audio-descriptions-transcripts/)
 - [Building a photography website](https://darekkay.com/blog/photography-website/)
 - [Delaying asset requests in Eleventy](https://darekkay.com/blog/eleventy-delay-middleware/)
-- [My personal one-pager](https://darekkay.com/blog/personal-one-pager/)
 
 <!-- @end-blog-posts -->
 
