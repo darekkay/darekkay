@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0051/0051-small.webp' alt='A curved train station. A blue/yellow train stands on the left side. A person with dark clothes and short blond hair walks away from the camera. The pillars of the train station form a curve.' />
+<img src='https://photos.darekkay.com/photo/0052/0052-small.webp' alt='Two doves sit on a tree branch. One dove &quot;kisses&quot; the other. An old manor is in the background.' />
 
 <!-- @end-photo -->
 
