@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0052/0052-small.webp' alt='Two doves sit on a tree branch. One dove &quot;kisses&quot; the other. An old manor is in the background.' />
+<img src='https://photos.darekkay.com/photo/0053/0053-small.webp' alt='A monochrome silhouette of a bird sitting on a wooden log.' />
 
 <!-- @end-photo -->
 
