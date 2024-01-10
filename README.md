@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0053/0053-small.webp' alt='A monochrome silhouette of a bird sitting on a wooden log.' />
+<img src='https://photos.darekkay.com/photo/0054/0054-small.webp' alt='A green and red tractors on a city street, going in opposite directions. Tractor drivers look at each other. A church in the background.' />
 
 <!-- @end-photo -->
 
