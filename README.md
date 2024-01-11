@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0054/0054-small.webp' alt='A green and red tractors on a city street, going in opposite directions. Tractor drivers look at each other. A church in the background.' />
+<img src='https://photos.darekkay.com/photo/0055/0055-small.webp' alt='A &#39;Hundeauslaufwiese&#39; (dog meadow) sign in the middle of a river.' />
 
 <!-- @end-photo -->
 
