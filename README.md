@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0055/0055-small.webp' alt='A &#39;Hundeauslaufwiese&#39; (dog meadow) sign in the middle of a river.' />
+<img src='https://photos.darekkay.com/photo/0056/0056-small.webp' alt='An arch bridge reflected in the water underneith it.' />
 
 <!-- @end-photo -->
 
