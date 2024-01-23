@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0056/0056-small.webp' alt='An arch bridge reflected in the water underneith it.' />
+<img src='https://photos.darekkay.com/photo/0057/0057-small.webp' alt='A white bicycle standing on a snowy meadow. The bicycle frames a blue road sign, which displays a car.' />
 
 <!-- @end-photo -->
 
