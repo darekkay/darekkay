@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Website themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 - [Video subtitles, captions, audio descriptions and transcripts](https://darekkay.com/blog/video-subtitles-closed-captions-audio-descriptions-transcripts/)
 - [Building a photography website](https://darekkay.com/blog/photography-website/)
-- [Delaying asset requests in Eleventy](https://darekkay.com/blog/eleventy-delay-middleware/)
 
 <!-- @end-blog-posts -->
 
