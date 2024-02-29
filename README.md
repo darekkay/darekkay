@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0057/0057-small.webp' alt='A white bicycle standing on a snowy meadow. The bicycle frames a blue road sign, which displays a car.' />
+<img src='https://photos.darekkay.com/photo/0058/0058-small.webp' alt='A cobblestone street with half-timbered houses. Colorful decorational butterflies hanging on top of the street. A &quot;Winstub&quot; sign on one of the buildings.' />
 
 <!-- @end-photo -->
 
