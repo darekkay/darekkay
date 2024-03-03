@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0058/0058-small.webp' alt='A cobblestone street with half-timbered houses. Colorful decorational butterflies hanging on top of the street. A &quot;Winstub&quot; sign on one of the buildings.' />
+<img src='https://photos.darekkay.com/photo/0059/0059-small.webp' alt='A blue metal gate in front of a red brick wall. Number 13 on the gate. A white-red crane above.' />
 
 <!-- @end-photo -->
 
