@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0059/0059-small.webp' alt='A blue metal gate in front of a red brick wall. Number 13 on the gate. A white-red crane above.' />
+<img src='https://photos.darekkay.com/photo/0060/0060-small.webp' alt='Nine rusty, decayed mail boxes. Each box has a different color. Partially visible window, covered by teal wood.' />
 
 <!-- @end-photo -->
 
