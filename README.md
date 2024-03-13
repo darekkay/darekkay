@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0061/0061-small.webp' alt='A sparrow above a bird fat ball. The picture is framed by a spiral object.' />
+<img src='https://photos.darekkay.com/photo/0062/0062-small.webp' alt='A full moon touching a crane wire. It appears as if the moon is connected to the crane and hangs below it.' />
 
 <!-- @end-photo -->
 
