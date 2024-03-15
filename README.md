@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0062/0062-small.webp' alt='A full moon touching a crane wire. It appears as if the moon is connected to the crane and hangs below it.' />
+<img src='https://photos.darekkay.com/photo/0063/0063-small.webp' alt='A crane viewed from below. Two lamps on the sides look like eyes, the main hook block looks like a nose. The structure resembles a mantis.' />
 
 <!-- @end-photo -->
 
