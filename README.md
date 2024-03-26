@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0063/0063-small.webp' alt='A crane viewed from below. Two lamps on the sides look like eyes, the main hook block looks like a nose. The structure resembles a mantis.' />
+<img src='https://photos.darekkay.com/photo/0065/0065-small.webp' alt='A woman with a red umbrella walks in front of a big marble wall with rectancle patterns.' />
 
 <!-- @end-photo -->
 
