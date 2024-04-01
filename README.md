@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0066/0066-small.webp' alt='Half-shadow, half-sunlight scene. A black-white check pattern on the background wall. A half-silhouette woman dressed in black and white is walking from right to left.' />
+<img src='https://photos.darekkay.com/photo/0067/0067-small.webp' alt='Abstract-looking vertical patterns. Three chains, wooden slabs, blue sky coming through.' />
 
 <!-- @end-photo -->
 
