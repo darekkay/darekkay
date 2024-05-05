@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0067/0067-small.webp' alt='Abstract-looking vertical patterns. Three chains, wooden slabs, blue sky coming through.' />
+<img src='https://photos.darekkay.com/photo/0068/0068-small.webp' alt='A small black-white-brown bird in the middle of a yellow colza field.' />
 
 <!-- @end-photo -->
 
