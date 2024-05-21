@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0070/0070-small.webp' alt='Motioned-blurred people walking in front of an advertising wall. A mix of sharp and motion-blurred people on the advertisement. The people on the ad hold shopping bags with the letters G, E, T, E and C.' />
+<img src='https://photos.darekkay.com/photo/0071/0071-small.webp' alt='An abstract photography. White and blue rectangles complement the sky and clouds. Diagonal gray and beige surfaces add depth to the photo.' />
 
 <!-- @end-photo -->
 
