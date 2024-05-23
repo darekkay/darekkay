@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0071/0071-small.webp' alt='An abstract photography. White and blue rectangles complement the sky and clouds. Diagonal gray and beige surfaces add depth to the photo.' />
+<img src='https://photos.darekkay.com/photo/0072/0072-small.webp' alt='An advertisement wall shows an old man with gray hair and a beard. Next to the ad, there is a cyclist who matches the man from the ad visually.' />
 
 <!-- @end-photo -->
 
