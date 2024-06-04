@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0072/0072-small.webp' alt='An advertisement wall shows an old man with gray hair and a beard. Next to the ad, there is a cyclist who matches the man from the ad visually.' />
+<img src='https://photos.darekkay.com/photo/0073/0073-small.webp' alt='An outdoor corridor with columns throwing shadows on the ground. A mirror on the left side shows column reflections. At the end of the corridor, two stand-up canoeists are seen synchronously in action.' />
 
 <!-- @end-photo -->
 
