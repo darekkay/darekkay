@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0076/0076-small.webp' alt='An event marshal/steward holding a rain poncho and walking through heavy rain.' />
+<img src='https://photos.darekkay.com/photo/0077/0077-small.webp' alt='A man with a check pattern jacket standing on a check pattern floor, filming a moving subway with his phone.' />
 
 <!-- @end-photo -->
 
