@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Web push notifications: issues and limitations](https://darekkay.com/blog/web-push-notifications-issues/)
 - [Website themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 - [Video subtitles, captions, audio descriptions and transcripts](https://darekkay.com/blog/video-subtitles-closed-captions-audio-descriptions-transcripts/)
-- [Building a photography website](https://darekkay.com/blog/photography-website/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0078/0078-small.webp' alt='A rowing boat on a water canal, viewed from behind. Washed clothes are hanging above the canal.' />
+<img src='https://photos.darekkay.com/photo/0079/0079-small.webp' alt='Twelve tilted windows on a building in a symmetrical composition. Some windows reflect water, which looks like broken glass. Two people sitting within one of the windows.' />
 
 <!-- @end-photo -->
 
