@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0079/0079-small.webp' alt='Twelve tilted windows on a building in a symmetrical composition. Some windows reflect water, which looks like broken glass. Two people sitting within one of the windows.' />
+<img src='https://photos.darekkay.com/photo/0080/0080-small.webp' alt='A window with blue wooden shutters on an orange wall. A blue bench below the window. Housekeeping objects laying around the bench.' />
 
 <!-- @end-photo -->
 
