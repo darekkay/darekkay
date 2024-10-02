@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Prevent data loss on page refresh](https://darekkay.com/blog/preserve-form-values/)
 - [Web push notifications: issues and limitations](https://darekkay.com/blog/web-push-notifications-issues/)
 - [Website themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
-- [Video subtitles, captions, audio descriptions and transcripts](https://darekkay.com/blog/video-subtitles-closed-captions-audio-descriptions-transcripts/)
 
 <!-- @end-blog-posts -->
 
