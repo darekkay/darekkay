@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [A guide to bookmarklets](https://darekkay.com/blog/bookmarklets/)
 - [Prevent data loss on page refresh](https://darekkay.com/blog/preserve-form-values/)
 - [Web push notifications: issues and limitations](https://darekkay.com/blog/web-push-notifications-issues/)
-- [Website themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0080/0080-small.webp' alt='A window with blue wooden shutters on an orange wall. A blue bench below the window. Housekeeping objects laying around the bench.' />
+<img src='https://photos.darekkay.com/photo/0081/0081-small.webp' alt='An old booklet floating on the water. One page is above the water, while the rest of the book is underwater.' />
 
 <!-- @end-photo -->
 
