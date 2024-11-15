@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0081/0081-small.webp' alt='An old booklet floating on the water. One page is above the water, while the rest of the book is underwater.' />
+<img src='https://photos.darekkay.com/photo/0082/0082-small.webp' alt='A spider sitting on a spider web. An out-of-focus church is visible in the background.' />
 
 <!-- @end-photo -->
 
