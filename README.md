@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0082/0082-small.webp' alt='A spider sitting on a spider web. An out-of-focus church is visible in the background.' />
+<img src='https://photos.darekkay.com/photo/0083/0083-small.webp' alt='A black and white close-up photo of legs wearing brand-new sneakers. A similar pair of worn-out shoes lies nearby, leading to an interesting juxtaposition. The location is a train station.' />
 
 <!-- @end-photo -->
 
