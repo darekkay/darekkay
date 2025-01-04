@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-blog-posts -->
 
+- [Grab browser links and titles in one click](https://darekkay.com/blog/bookmarklet-copy-browser-tab/)
 - [Open Graph images: Format compatibility across platforms](https://darekkay.com/blog/open-graph-image-formats/)
 - [A guide to bookmarklets](https://darekkay.com/blog/bookmarklets/)
-- [Prevent data loss on page refresh](https://darekkay.com/blog/preserve-form-values/)
 
 <!-- @end-blog-posts -->
 
