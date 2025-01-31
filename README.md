@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0083/0083-small.webp' alt='A black and white close-up photo of legs wearing brand-new sneakers. A similar pair of worn-out shoes lies nearby, leading to an interesting juxtaposition. The location is a train station.' />
+<img src='https://photos.darekkay.com/photo/0084/0084-small.webp' alt='A woman with a pink trolley walks in front of a colorful graffiti. The graffiti contains a chameleon. Its tongue touches the head of the woman.' />
 
 <!-- @end-photo -->
 
