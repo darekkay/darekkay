@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0084/0084-small.webp' alt='A woman with a pink trolley walks in front of a colorful graffiti. The graffiti contains a chameleon. Its tongue touches the head of the woman.' />
+<img src='https://photos.darekkay.com/photo/0085/0085-small.webp' alt='A monochrome photo of a staircase photographed from above.' />
 
 <!-- @end-photo -->
 
