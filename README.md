@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0085/0085-small.webp' alt='A monochrome photo of a staircase photographed from above.' />
+<img src='https://photos.darekkay.com/photo/0086/0086-small.webp' alt='Fine art monochrome photograph. A man walks on a footbridge. Another curvy footbridge enframes the subject.' />
 
 <!-- @end-photo -->
 
