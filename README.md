@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0086/0086-small.webp' alt='Fine art monochrome photograph. A man walks on a footbridge. Another curvy footbridge enframes the subject.' />
+<img src='https://photos.darekkay.com/photo/0087/0087-small.webp' alt='A woman with a long skirt walks through a patch of light. Her shadow is cast on a building wall.' />
 
 <!-- @end-photo -->
 
