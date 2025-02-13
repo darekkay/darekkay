@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0088/0088-small.webp' alt='A monochrome photograph. A man walks down big stairs in front of a huge patterned wall. A dove is flying.' />
+<img src='https://photos.darekkay.com/photo/0089/0089-small.webp' alt='Peanuts hanging on a string covered with snowflakes. The blurry background contains branches and orange objects.' />
 
 <!-- @end-photo -->
 
