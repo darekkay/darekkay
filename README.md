@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0089/0089-small.webp' alt='Peanuts hanging on a string covered with snowflakes. The blurry background contains branches and orange objects.' />
+<img src='https://photos.darekkay.com/photo/0090/0090-small.webp' alt='A waiter holding a tray with a glass enters a building. The photo is taken from the inside. The sun is shining outside. The waiter is mostly a silhouette, but the light highlights their red hair and the glass.' />
 
 <!-- @end-photo -->
 
