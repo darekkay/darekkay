@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0090/0090-small.webp' alt='A waiter holding a tray with a glass enters a building. The photo is taken from the inside. The sun is shining outside. The waiter is mostly a silhouette, but the light highlights their red hair and the glass.' />
+<img src='https://photos.darekkay.com/photo/0091/0091-small.webp' alt='A man wearing an apron stands in front of a red brick wall with a window. He stands with his body towards the wall.' />
 
 <!-- @end-photo -->
 
