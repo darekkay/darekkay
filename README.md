@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0091/0091-small.webp' alt='A man wearing an apron stands in front of a red brick wall with a window. He stands with his body towards the wall.' />
+<img src='https://photos.darekkay.com/photo/0092/0092-small.webp' alt='A man wearing a suit holds an umbrella and a bottle while having a phone call. He walks in front of a bright white background.' />
 
 <!-- @end-photo -->
 
