@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0092/0092-small.webp' alt='A man wearing a suit holds an umbrella and a bottle while having a phone call. He walks in front of a bright white background.' />
+<img src='https://photos.darekkay.com/photo/0093/0093-small.webp' alt='A monochrome photo. A woman runs through a puddle, with both feet above the water.' />
 
 <!-- @end-photo -->
 
