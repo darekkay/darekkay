@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0093/0093-small.webp' alt='A monochrome photo. A woman runs through a puddle, with both feet above the water.' />
+<img src='https://photos.darekkay.com/photo/0094/0094-small.webp' alt='A sausage counter. A hand displays a ham slice to a customer.' />
 
 <!-- @end-photo -->
 
