@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0095/0095-small.webp' alt='A boy runs on a stair towards the camera. One dove runs away while another one flies away. More doves are in the background.' />
+<img src='https://photos.darekkay.com/photo/0096/0096-small.webp' alt='A woman walks on a street, next to a historic tram. A building with a glass square pattern in the background.' />
 
 <!-- @end-photo -->
 
