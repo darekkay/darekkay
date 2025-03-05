@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0097/0097-small.webp' alt='A woman wearing a blue jacket walks in front of a blue Theatre Edgar building. Blue posters with golden light hang on the building wall. The scene is reflected on a blue car roof.' />
+<img src='https://photos.darekkay.com/photo/0099/0099-small.webp' alt='An entrance to a tunnel full of graffitis at night. Silhouettes of two joggers are visible. The scene is reflected in a puddle.' />
 
 <!-- @end-photo -->
 
