@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0099/0099-small.webp' alt='An entrance to a tunnel full of graffitis at night. Silhouettes of two joggers are visible. The scene is reflected in a puddle.' />
+<img src='https://photos.darekkay.com/photo/0100/0100-small.webp' alt='A monochrome photograph of a person with an umbrella being pushed outwards by the wind. In the background, the Eiffel Tower is visible, with its spire being covered by the fog.' />
 
 <!-- @end-photo -->
 
