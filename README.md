@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0100/0100-small.webp' alt='A monochrome photograph of a person with an umbrella being pushed outwards by the wind. In the background, the Eiffel Tower is visible, with its spire being covered by the fog.' />
+<img src='https://photos.darekkay.com/photo/0101/0101-small.webp' alt='A man in a suit wearing blue glasses and looking at his smartphone stands in front of a Mediterranean sandstone wall. On the left side a tree partially frames the person.' />
 
 <!-- @end-photo -->
 
