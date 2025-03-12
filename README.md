@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0101/0101-small.webp' alt='A man in a suit wearing blue glasses and looking at his smartphone stands in front of a Mediterranean sandstone wall. On the left side a tree partially frames the person.' />
+<img src='https://photos.darekkay.com/photo/0102/0102-small.webp' alt='Person&#39;s feet and their baggage are visible from below through a glass floor. The image is symmetrical, containing many lines and a high black and white contrast.' />
 
 <!-- @end-photo -->
 
