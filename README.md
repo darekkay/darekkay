@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0102/0102-small.webp' alt='Person&#39;s feet and their baggage are visible from below through a glass floor. The image is symmetrical, containing many lines and a high black and white contrast.' />
+<img src='https://photos.darekkay.com/photo/0103/0103-small.webp' alt='A mural of two women looking in different directions. A woman walks in front of the mural and looks at the camera.' />
 
 <!-- @end-photo -->
 
