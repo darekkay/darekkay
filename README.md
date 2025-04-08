@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0104/0104-small.webp' alt='A person stands on the stairs and looks up. They stand in front of a big wall with line patterns.' />
+<img src='https://photos.darekkay.com/photo/0105/0105-small.webp' alt='A skateboarder doing a kickflip over a stone bench on a sunny day. Yellow and white buildings in the background.' />
 
 <!-- @end-photo -->
 
