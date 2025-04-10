@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0105/0105-small.webp' alt='A skateboarder doing a kickflip over a stone bench on a sunny day. Yellow and white buildings in the background.' />
+<img src='https://photos.darekkay.com/photo/0106/0106-small.webp' alt='A roofed outdoor shopping center. Mirrored trees cover the white building canopy. A human silhouette is visible in the background.' />
 
 <!-- @end-photo -->
 
