@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0106/0106-small.webp' alt='A roofed outdoor shopping center. Mirrored trees cover the white building canopy. A human silhouette is visible in the background.' />
+<img src='https://photos.darekkay.com/photo/0107/0107-small.webp' alt='A mural of ten children holding hands. Next to it an elderly couple is holding hands.' />
 
 <!-- @end-photo -->
 
