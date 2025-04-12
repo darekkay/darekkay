@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0107/0107-small.webp' alt='A mural of ten children holding hands. Next to it an elderly couple is holding hands.' />
+<img src='https://photos.darekkay.com/photo/0108/0108-small.webp' alt='Silhouettes of two cormorants above a water canal. Construction cranes in the background.' />
 
 <!-- @end-photo -->
 
