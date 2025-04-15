@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0108/0108-small.webp' alt='Silhouettes of two cormorants above a water canal. Construction cranes in the background.' />
+<img src='https://photos.darekkay.com/photo/0109/0109-small.webp' alt='A person in a red pullover walks down big monochrome stairs. They look down at a nearby pidgeon. Windows form repeating high-contrast patterns above the stairs.' />
 
 <!-- @end-photo -->
 
