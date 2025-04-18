@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0110/0110-small.webp' alt='Ferry terminal. A human silhouette in front of a doorway leading to the riverside. Big window panes consist of lines and arches.' />
+<img src='https://photos.darekkay.com/photo/0111/0111-small.webp' alt='A silhouette of a person standing next to a low fence, staring into the distance. They are reflected in a puddle. A big tree frames the person.' />
 
 <!-- @end-photo -->
 
