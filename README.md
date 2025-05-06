@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0114/0114-small.webp' alt='A man in a suit holds a big envelope. He walks towards a black and white building. There are strips of light on the ground, and white panels above it, forming leading lines for the subject.' />
+<img src='https://photos.darekkay.com/photo/0115/0115-small.webp' alt='A store owner cleans the floor with a water hose. The store includes a &#39;Voilailles&#39; lettering. An out-of-focus pidgeon flies through the image.' />
 
 <!-- @end-photo -->
 
