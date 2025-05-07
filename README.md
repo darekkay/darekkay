@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0115/0115-small.webp' alt='A store owner cleans the floor with a water hose. The store includes a &#39;Voilailles&#39; lettering. An out-of-focus pidgeon flies through the image.' />
+<img src='https://photos.darekkay.com/photo/0116/0116-small.webp' alt='A black and white cat with strong yellow eyes behind a grid. A scratcher on the left side.' />
 
 <!-- @end-photo -->
 
