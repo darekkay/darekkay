@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0116/0116-small.webp' alt='A black and white cat with strong yellow eyes behind a grid. A scratcher on the left side.' />
+<img src='https://photos.darekkay.com/photo/0117/0117-small.webp' alt='A person lying at the end of a big tube. Metalic reflections lead to the person.' />
 
 <!-- @end-photo -->
 
