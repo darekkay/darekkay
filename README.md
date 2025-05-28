@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0117/0117-small.webp' alt='A person lying at the end of a big tube. Metalic reflections lead to the person.' />
+<img src='https://photos.darekkay.com/photo/0118/0118-small.webp' alt='A woman walks towards a big church window, following the sunbeam the window casts. Three orange lamps match the woman&#39;s illuminated hair.' />
 
 <!-- @end-photo -->
 
