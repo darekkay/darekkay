@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0118/0118-small.webp' alt='A woman walks towards a big church window, following the sunbeam the window casts. Three orange lamps match the woman&#39;s illuminated hair.' />
+<img src='https://photos.darekkay.com/photo/0119/0119-small.webp' alt='The upper part of a rectangular building, fully surrounded by clouds. Achieved by a reflection in the bottom part of the image.' />
 
 <!-- @end-photo -->
 
