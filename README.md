@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0120/0120-small.webp' alt='A person with a dog walking on a sidewalk behind a series of arch structures.' />
+<img src='https://photos.darekkay.com/photo/0121/0121-small.webp' alt='A person walking through a patch of light. Their upper body is a silhouette.' />
 
 <!-- @end-photo -->
 
