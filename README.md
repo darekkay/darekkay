@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0121/0121-small.webp' alt='A person walking through a patch of light. Their upper body is a silhouette.' />
+<img src='https://photos.darekkay.com/photo/0122/0122-small.webp' alt='Two painters on a crain put white paint on a blue building. Above them, a blue sky with white clouds, matching the colors of the building.' />
 
 <!-- @end-photo -->
 
