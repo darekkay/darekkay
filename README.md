@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0122/0122-small.webp' alt='Two painters on a crain put white paint on a blue building. Above them, a blue sky with white clouds, matching the colors of the building.' />
+<img src='https://photos.darekkay.com/photo/0123/0123-small.webp' alt='A person with a red umbrella walks down a spiral old staircase.' />
 
 <!-- @end-photo -->
 
