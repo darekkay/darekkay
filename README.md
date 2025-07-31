@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0123/0123-small.webp' alt='A person with a red umbrella walks down a spiral old staircase.' />
+<img src='https://photos.darekkay.com/photo/0124/0124-small.webp' alt='A person looks at a store window with a big drawing of a surprised human face.' />
 
 <!-- @end-photo -->
 
