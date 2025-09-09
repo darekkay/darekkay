@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0126/0126-small.webp' alt='A monochrome photo of a woman leaning against a pillar in a subway station. A motion-blurred subway in the background.' />
+<img src='https://photos.darekkay.com/photo/0127/0127-small.webp' alt='A monochrome photo of clouds. A reflection of cone-shaped ceiling lights with strings on the right side.' />
 
 <!-- @end-photo -->
 
