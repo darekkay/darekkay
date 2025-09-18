@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0127/0127-small.webp' alt='A monochrome photo of clouds. A reflection of cone-shaped ceiling lights with strings on the right side.' />
+<img src='https://photos.darekkay.com/photo/0128/0128-small.webp' alt='A low-key photo of a person who juggles fire poi. Rim light exposes the outline of the person.' />
 
 <!-- @end-photo -->
 
