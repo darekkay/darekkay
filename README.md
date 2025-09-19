@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0128/0128-small.webp' alt='A low-key photo of a person who juggles fire poi. Rim light exposes the outline of the person.' />
+<img src='https://photos.darekkay.com/photo/0129/0129-small.webp' alt='The front side of an insect flying next to a colza plant.' />
 
 <!-- @end-photo -->
 
