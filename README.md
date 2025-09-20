@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0129/0129-small.webp' alt='The front side of an insect flying next to a colza plant.' />
+<img src='https://photos.darekkay.com/photo/0130/0130-small.webp' alt='A big dark hall with rays of lights. An elderly woman walks through one of the rays.' />
 
 <!-- @end-photo -->
 
