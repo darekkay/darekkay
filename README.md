@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0130/0130-small.webp' alt='A big dark hall with rays of lights. An elderly woman walks through one of the rays.' />
+<img src='https://photos.darekkay.com/photo/0131/0131-small.webp' alt='A woman sits with a balloon and looks at her mobile phone. The white balloon contrasts against a black background. The background includes shapes and circles.' />
 
 <!-- @end-photo -->
 
