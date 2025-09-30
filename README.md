@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0132/0132-small.webp' alt='A silhouette of a person with headphones sitting by the riverside at sundown.' />
+<img src='https://photos.darekkay.com/photo/0133/0133-small.webp' alt='A silhouette of a woman with a long dress. There&#39;s fog on the ground.' />
 
 <!-- @end-photo -->
 
