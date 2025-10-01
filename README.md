@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0133/0133-small.webp' alt='A silhouette of a woman with a long dress. There&#39;s fog on the ground.' />
+<img src='https://photos.darekkay.com/photo/0134/0134-small.webp' alt='A woman in purple clothes with yellow stripes holds a yellow umbrella. In the foreground, there are red and yellow flowers. In the background, there are yellow restaurant umbrellas.' />
 
 <!-- @end-photo -->
 
