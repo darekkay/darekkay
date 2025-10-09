@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0135/0135-small.webp' alt='A tree in front of a monochrome building, framed by a line pattern.' />
+<img src='https://photos.darekkay.com/photo/0136/0136-small.webp' alt='A person walks down a subway station. Circular ceiling lights form a leading line.' />
 
 <!-- @end-photo -->
 
