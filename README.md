@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0138/0138-small.webp' alt='A high-key monochrome photo of a staircase, viewed from the bottom. A person is climbing the stairs and looking up.' />
+<img src='https://photos.darekkay.com/photo/0139/0139-small.webp' alt='A person with headphones sitting on a bench in a park, raising both arms in a gesticulating way.' />
 
 <!-- @end-photo -->
 
