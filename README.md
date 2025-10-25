@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0140/0140-small.webp' alt='A woman and a pigeon walking in opposite directions in front of a pigeon mural.' />
+<img src='https://photos.darekkay.com/photo/0141/0141-small.webp' alt='A silhouette of a person in a subway station. Multiple lines lead to the subject.' />
 
 <!-- @end-photo -->
 
