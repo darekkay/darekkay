@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0142/0142-small.webp' alt='A person walks in front of a mural, containing a horse with wings, a soccer player and some landmarks. A text states Central Passage Budapest.' />
+<img src='https://photos.darekkay.com/photo/0143/0143-small.webp' alt='A wide staircase view from below. A person is framed by the stairs.' />
 
 <!-- @end-photo -->
 
