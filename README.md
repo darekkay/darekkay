@@ -2,7 +2,7 @@
 
 I'm a front-end developer and an [accessibility advocate](https://darekkay.com/tags/accessibility/). I love sharing what I know through [my blog](https://darekkay.com/), teaching and [speaking at conferences](https://github.com/darekkay/presentations). If you want to learn more about what I do, look at all the [awesome things](https://darekkay.com/projects/) I'm building to make people's lives better. 💖
 
-In my free time, I enjoy [photography](https://photos.darekkay.com/), board games, movies and playing instruments.
+In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), board games, movies and playing instruments.
 
 ### Follow me
 
@@ -26,8 +26,8 @@ In my free time, I enjoy [photography](https://photos.darekkay.com/), board game
 
 <!-- @begin-photo -->
 
-<img src='https://photos.darekkay.com/photo/0143/0143-small.webp' alt='A wide staircase view from below. A person is framed by the stairs.' />
+<img src='https://photos.dariuszwinkler.com/photo/0143/0143-small.webp' alt='A wide staircase view from below. A person is framed by the stairs.' />
 
 <!-- @end-photo -->
 
-👉️ [View all photos](https://darekkay.com/projects/)
+👉️ [View all photos](https://photos.dariuszwinkler.com/)

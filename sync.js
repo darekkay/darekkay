@@ -21,7 +21,7 @@ const syncLatestBlogPosts = async (readmeContent) => {
 };
 
 const syncLatestPhoto = async (readmeContent) => {
-  const URL_LATEST_PHOTO = "https://photos.darekkay.com/latest.json";
+  const URL_LATEST_PHOTO = "https://photos.dariuszwinkler.com/latest.json";
   const response = await axios.get(URL_LATEST_PHOTO);
   const latestPhoto = response.data;
 
