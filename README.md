@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0143/0143-small.webp' alt='A wide staircase view from below. A person is framed by the stairs.' />
+<img src='https://photos.dariuszwinkler.com/photo/0144/0144-small.webp' alt='A person in a white t-shirt walks between black, patterned solar panels.' />
 
 <!-- @end-photo -->
 
