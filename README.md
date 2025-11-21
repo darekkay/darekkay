@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0144/0144-small.webp' alt='A person in a white t-shirt walks between black, patterned solar panels.' />
+<img src='https://photos.dariuszwinkler.com/photo/0145/0145-small.webp' alt='A black-red pillar with a gray triangle. A woman dressed in a red shirt and a black jacket with a gray collar.' />
 
 <!-- @end-photo -->
 
