@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0145/0145-small.webp' alt='A black-red pillar with a gray triangle. A woman dressed in a red shirt and a black jacket with a gray collar.' />
+<img src='https://photos.dariuszwinkler.com/photo/0146/0146-small.webp' alt='A plastic fish hanging outside a window in front of a yellow striped background.' />
 
 <!-- @end-photo -->
 
