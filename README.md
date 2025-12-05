@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0146/0146-small.webp' alt='A plastic fish hanging outside a window in front of a yellow striped background.' />
+<img src='https://photos.dariuszwinkler.com/photo/0147/0147-small.webp' alt='A woman in the bottom right corner looking left, in front of a patterned building. Her gaze connects with a line of the building.' />
 
 <!-- @end-photo -->
 
