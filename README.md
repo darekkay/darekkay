@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0147/0147-small.webp' alt='A woman in the bottom right corner looking left, in front of a patterned building. Her gaze connects with a line of the building.' />
+<img src='https://photos.dariuszwinkler.com/photo/0148/0148-small.webp' alt='A distored, mirrored abstract photo.' />
 
 <!-- @end-photo -->
 
