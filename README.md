@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0148/0148-small.webp' alt='A distored, mirrored abstract photo.' />
+<img src='https://photos.dariuszwinkler.com/photo/0149/0149-small.webp' alt='A monochrome close-up of a dandelion.' />
 
 <!-- @end-photo -->
 
