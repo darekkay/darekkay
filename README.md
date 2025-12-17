@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0149/0149-small.webp' alt='A monochrome close-up of a dandelion.' />
+<img src='https://photos.dariuszwinkler.com/photo/0150/0150-small.webp' alt='A person walks on a curvy road. The Hungarian Parliament Building is in the background.' />
 
 <!-- @end-photo -->
 
