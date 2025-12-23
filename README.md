@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0151/0151-small.webp' alt='Two people holding hands, walking down a foggy street with streetlamps.' />
+<img src='https://photos.dariuszwinkler.com/photo/0152/0152-small.webp' alt='A Christmas market at night. Two yellow umbrellas lying on a wooden table. Lights reflected in an abstract pattern.' />
 
 <!-- @end-photo -->
 
