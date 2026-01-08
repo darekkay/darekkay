@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0153/0153-small.webp' alt='A distored, abstract image of a person holding an umbrella next to a pedestrian crossing.' />
+<img src='https://photos.dariuszwinkler.com/photo/0154/0154-small.webp' alt='A low-key photo of a person walking in a dark room under a ceiling hole.' />
 
 <!-- @end-photo -->
 
