@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0154/0154-small.webp' alt='A low-key photo of a person walking in a dark room under a ceiling hole.' />
+<img src='https://photos.dariuszwinkler.com/photo/0155/0155-small.webp' alt='A pedestrian in front of a big billboard, which contains a person looking to the right. The person on the billboard is mirrored on a reflective surface, while the pedestrian is located in between.' />
 
 <!-- @end-photo -->
 
