@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0155/0155-small.webp' alt='A pedestrian in front of a big billboard, which contains a person looking to the right. The person on the billboard is mirrored on a reflective surface, while the pedestrian is located in between.' />
+<img src='https://photos.dariuszwinkler.com/photo/0156/0156-small.webp' alt='A person standing at a kebab kiosk at night. A red Trakiya Grill sign is reflected in a puddle.' />
 
 <!-- @end-photo -->
 
