@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0156/0156-small.webp' alt='A person standing at a kebab kiosk at night. A red Trakiya Grill sign is reflected in a puddle.' />
+<img src='https://photos.dariuszwinkler.com/photo/0157/0157-small.webp' alt='An abstract photo of a person with a red basecap. The person is sitting behind a distorted layer.' />
 
 <!-- @end-photo -->
 
