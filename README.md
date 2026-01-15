@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0157/0157-small.webp' alt='An abstract photo of a person with a red basecap. The person is sitting behind a distorted layer.' />
+<img src='https://photos.dariuszwinkler.com/photo/0158/0158-small.webp' alt='A nanday parakeet sitting on a tree branch.' />
 
 <!-- @end-photo -->
 
