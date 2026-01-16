@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0158/0158-small.webp' alt='A nanday parakeet sitting on a tree branch.' />
+<img src='https://photos.dariuszwinkler.com/photo/0159/0159-small.webp' alt='A teenager wearing just shorts holds a t-shirt in their left hand. The person is spreading their arms while being hit by a big wave.' />
 
 <!-- @end-photo -->
 
