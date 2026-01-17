@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0159/0159-small.webp' alt='A teenager wearing just shorts holds a t-shirt in their left hand. The person is spreading their arms while being hit by a big wave.' />
+<img src='https://photos.dariuszwinkler.com/photo/0160/0160-small.webp' alt='A monochrome, low-angle, abstract picture. A foggy building on the left side. Lines forming steps on the right side.' />
 
 <!-- @end-photo -->
 
