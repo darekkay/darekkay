@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0160/0160-small.webp' alt='A monochrome, low-angle, abstract picture. A foggy building on the left side. Lines forming steps on the right side.' />
+<img src='https://photos.dariuszwinkler.com/photo/0161/0161-small.webp' alt='A woman is walking out of a shadow in front of a pink building.' />
 
 <!-- @end-photo -->
 
