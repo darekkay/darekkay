@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0161/0161-small.webp' alt='A woman is walking out of a shadow in front of a pink building.' />
+<img src='https://photos.dariuszwinkler.com/photo/0162/0162-small.webp' alt='A silhouette of a person wearing a hat at the exit of a building. Yellow glowing stars hanging from the ceiling.' />
 
 <!-- @end-photo -->
 
