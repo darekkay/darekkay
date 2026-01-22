@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0162/0162-small.webp' alt='A silhouette of a person wearing a hat at the exit of a building. Yellow glowing stars hanging from the ceiling.' />
+<img src='https://photos.dariuszwinkler.com/photo/0163/0163-small.webp' alt='An unusual lighthouse at sundown. Orange-red cloudy sky is reflected in puddles.' />
 
 <!-- @end-photo -->
 
