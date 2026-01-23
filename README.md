@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0163/0163-small.webp' alt='An unusual lighthouse at sundown. Orange-red cloudy sky is reflected in puddles.' />
+<img src='https://photos.dariuszwinkler.com/photo/0164/0164-small.webp' alt='A big residential building with exterior corridors. A person with blue clothes is walking down a corridor.' />
 
 <!-- @end-photo -->
 
