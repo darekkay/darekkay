@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0165/0165-small.webp' alt='A yellow tram passing through a narrow street. An older person is walking on the sidewalk.' />
+<img src='https://photos.dariuszwinkler.com/photo/0166/0166-small.webp' alt='Two children throwing a stone into a small body of water.' />
 
 <!-- @end-photo -->
 
