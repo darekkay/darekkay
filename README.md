@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0167/0167-small.webp' alt='A turnstone bird with a water drop dripping from its beak.' />
+<img src='https://photos.dariuszwinkler.com/photo/0168/0168-small.webp' alt='A female silhouette in a tunnel. Ceiling lights lead to the person.' />
 
 <!-- @end-photo -->
 
