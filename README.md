@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #01: Getting ready](https://darekkay.com/blog/sabbatical-01-intro/)
 - [Grab browser links and titles in one click](https://darekkay.com/blog/bookmarklet-copy-browser-tab/)
 - [Open Graph images: Format compatibility across platforms](https://darekkay.com/blog/open-graph-image-formats/)
-- [A guide to bookmarklets](https://darekkay.com/blog/bookmarklets/)
 
 <!-- @end-blog-posts -->
 
