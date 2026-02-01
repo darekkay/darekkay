@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0169/0169-small.webp' alt='A rainbow over trees and buildings, including a church.' />
+<img src='https://photos.dariuszwinkler.com/photo/0170/0170-small.webp' alt='Teide volcano covered by clouds, seen from an airplane.' />
 
 <!-- @end-photo -->
 
