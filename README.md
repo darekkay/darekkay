@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0171/0171-small.webp' alt='A woman in a red jacket and yellow pants is walking in front of a large blue door. Green trash bins are on the left side. One trash bin has a yellow lid.' />
+<img src='https://photos.dariuszwinkler.com/photo/0172/0172-small.webp' alt='A silhouette of a person in front of a huge multi-layered wave.' />
 
 <!-- @end-photo -->
 
