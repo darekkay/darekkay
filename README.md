@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0172/0172-small.webp' alt='A silhouette of a person in front of a huge multi-layered wave.' />
+<img src='https://photos.dariuszwinkler.com/photo/0173/0173-small.webp' alt='A staircase leading to a red bridge. Two people standing at the top of the stairs. One person is pointing into the distance.' />
 
 <!-- @end-photo -->
 
