@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #02: Doha](https://darekkay.com/blog/sabbatical-02-doha/)
 - [Sabbatical #01: Getting ready](https://darekkay.com/blog/sabbatical-01-intro/)
 - [Grab browser links and titles in one click](https://darekkay.com/blog/bookmarklet-copy-browser-tab/)
-- [Open Graph images: Format compatibility across platforms](https://darekkay.com/blog/open-graph-image-formats/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0173/0173-small.webp' alt='A staircase leading to a red bridge. Two people standing at the top of the stairs. One person is pointing into the distance.' />
+<img src='https://photos.dariuszwinkler.com/photo/0174/0174-small.webp' alt='A sidelong silhouette of a pidgeon in front of yellow lights.' />
 
 <!-- @end-photo -->
 
