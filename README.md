@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #03: Auckland](https://darekkay.com/blog/sabbatical-03-auckland/)
 - [Sabbatical #02: Doha](https://darekkay.com/blog/sabbatical-02-doha/)
 - [Sabbatical #01: Getting ready](https://darekkay.com/blog/sabbatical-01-intro/)
-- [Grab browser links and titles in one click](https://darekkay.com/blog/bookmarklet-copy-browser-tab/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0174/0174-small.webp' alt='A sidelong silhouette of a pidgeon in front of yellow lights.' />
+<img src='https://photos.dariuszwinkler.com/photo/0175/0175-small.webp' alt='A child with a cat balloon walking in front of a door.' />
 
 <!-- @end-photo -->
 
