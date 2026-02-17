@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0175/0175-small.webp' alt='A child with a cat balloon walking in front of a door.' />
+<img src='https://photos.dariuszwinkler.com/photo/0176/0176-small.webp' alt='A monochrome photo of a person covered by a blanket sitting at a beach. A pool of water between the foreground and the person.' />
 
 <!-- @end-photo -->
 
