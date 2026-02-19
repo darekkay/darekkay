@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #04: Coromandel Peninsula](https://darekkay.com/blog/sabbatical-04-coromandel-peninsula/)
 - [Sabbatical #03: Auckland](https://darekkay.com/blog/sabbatical-03-auckland/)
 - [Sabbatical #02: Doha](https://darekkay.com/blog/sabbatical-02-doha/)
-- [Sabbatical #01: Getting ready](https://darekkay.com/blog/sabbatical-01-intro/)
 
 <!-- @end-blog-posts -->
 
