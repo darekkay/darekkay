@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0177/0177-small.webp' alt='A person walks through a church door. A bright light comes through the door.' />
+<img src='https://photos.dariuszwinkler.com/photo/0178/0178-small.webp' alt='A gas station at blue hour.' />
 
 <!-- @end-photo -->
 
