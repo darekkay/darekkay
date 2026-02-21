@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0178/0178-small.webp' alt='A gas station at blue hour.' />
+<img src='https://photos.dariuszwinkler.com/photo/0179/0179-small.webp' alt='A seagull flying close to the water. Splashes of water are beneath the bird.' />
 
 <!-- @end-photo -->
 
