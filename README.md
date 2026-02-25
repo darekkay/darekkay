@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0179/0179-small.webp' alt='A seagull flying close to the water. Splashes of water are beneath the bird.' />
+<img src='https://photos.dariuszwinkler.com/photo/0180/0180-small.webp' alt='A hand of a person with a wedding ring between pillars of a subway station.' />
 
 <!-- @end-photo -->
 
