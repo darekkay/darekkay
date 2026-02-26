@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0180/0180-small.webp' alt='A hand of a person with a wedding ring between pillars of a subway station.' />
+<img src='https://photos.dariuszwinkler.com/photo/0181/0181-small.webp' alt='A city skyline of Doha at night, long-term exposure.' />
 
 <!-- @end-photo -->
 
