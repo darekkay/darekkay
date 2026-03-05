@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0181/0181-small.webp' alt='A city skyline of Doha at night, long-term exposure.' />
+<img src='https://photos.dariuszwinkler.com/photo/0182/0182-small.webp' alt='A blood moon' />
 
 <!-- @end-photo -->
 
