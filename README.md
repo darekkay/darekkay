@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #07: Waitomo](https://darekkay.com/blog/sabbatical-07-waitomo/)
 - [Sabbatical #06: Tongariro National Park](https://darekkay.com/blog/sabbatical-06-tongariro-national-park/)
 - [Sabbatical #05: Rotorua Lakes](https://darekkay.com/blog/sabbatical-05-rotorua-lakes/)
-- [Sabbatical #04: Coromandel Peninsula](https://darekkay.com/blog/sabbatical-04-coromandel-peninsula/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0184/0184-small.webp' alt='Stars and the Milky Way on the sky. Yellow field on the bottom of the image.' />
+<img src='https://photos.dariuszwinkler.com/photo/0186/0186-small.webp' alt='A silhouette of a person walking on a bridge. Two arched buildings in the background frame the subject.' />
 
 <!-- @end-photo -->
 
