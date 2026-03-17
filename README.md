@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0186/0186-small.webp' alt='A silhouette of a person walking on a bridge. Two arched buildings in the background frame the subject.' />
+<img src='https://photos.dariuszwinkler.com/photo/0187/0187-small.webp' alt='A monochrome photo of a building with different shapes formed by light and shadow.' />
 
 <!-- @end-photo -->
 
