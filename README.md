@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0188/0188-small.webp' alt='A silhouette of a person with long black clothes and a handbag walking toward a sandstone building at night.' />
+<img src='https://photos.dariuszwinkler.com/photo/0189/0189-small.webp' alt='A person walking at night under a structure of lines, lights and shadows drinks from a bottle.' />
 
 <!-- @end-photo -->
 
