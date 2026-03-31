@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #08: Christchurch](https://darekkay.com/blog/sabbatical-08-christchurch/)
 - [Sabbatical #07: Waitomo](https://darekkay.com/blog/sabbatical-07-waitomo/)
 - [Sabbatical #06: Tongariro National Park](https://darekkay.com/blog/sabbatical-06-tongariro-national-park/)
-- [Sabbatical #05: Rotorua Lakes](https://darekkay.com/blog/sabbatical-05-rotorua-lakes/)
 
 <!-- @end-blog-posts -->
 
