@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0189/0189-small.webp' alt='A person walking at night under a structure of lines, lights and shadows drinks from a bottle.' />
+<img src='https://photos.dariuszwinkler.com/photo/0190/0190-small.webp' alt='A full moon night. A silhouette of a person standing between bright palm sculptures. Parts of a building with different shapes.' />
 
 <!-- @end-photo -->
 
