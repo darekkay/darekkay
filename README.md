@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #09: Dunedin](https://darekkay.com/blog/sabbatical-09-dunedin/)
 - [Sabbatical #08: Christchurch](https://darekkay.com/blog/sabbatical-08-christchurch/)
 - [Sabbatical #07: Waitomo](https://darekkay.com/blog/sabbatical-07-waitomo/)
-- [Sabbatical #06: Tongariro National Park](https://darekkay.com/blog/sabbatical-06-tongariro-national-park/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0190/0190-small.webp' alt='A full moon night. A silhouette of a person standing between bright palm sculptures. Parts of a building with different shapes.' />
+<img src='https://photos.dariuszwinkler.com/photo/0191/0191-small.webp' alt='Three welcome swallow birds sitting on a white branch. A fourth swallow is landing on the branch, being observed by the other birds. One swallow cries at the landing bird.' />
 
 <!-- @end-photo -->
 
