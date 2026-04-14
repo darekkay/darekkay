@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0191/0191-small.webp' alt='Three welcome swallow birds sitting on a white branch. A fourth swallow is landing on the branch, being observed by the other birds. One swallow cries at the landing bird.' />
+<img src='https://photos.dariuszwinkler.com/photo/0192/0192-small.webp' alt='An ICM photo that looks like a painting. A big tree in between two bamboo forests.' />
 
 <!-- @end-photo -->
 
