@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0192/0192-small.webp' alt='An ICM photo that looks like a painting. A big tree in between two bamboo forests.' />
+<img src='https://photos.dariuszwinkler.com/photo/0193/0193-small.webp' alt='A person with a paper umbrella under a cherry tree in front of a palast.' />
 
 <!-- @end-photo -->
 
