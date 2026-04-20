@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0193/0193-small.webp' alt='A person with a paper umbrella under a cherry tree in front of a palast.' />
+<img src='https://photos.dariuszwinkler.com/photo/0194/0194-small.webp' alt='Four people sitting on a beach at sundown with mountains in the background. All of them wear bright rain jackets and are taking photos of their ice creams.' />
 
 <!-- @end-photo -->
 
