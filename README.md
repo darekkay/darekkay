@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #13: Wānaka](https://darekkay.com/blog/sabbatical-13-wanaka/)
 - [Sabbatical #12: Milford Sound](https://darekkay.com/blog/sabbatical-12-milford-sound/)
 - [Sabbatical #11: Queenstown](https://darekkay.com/blog/sabbatical-11-queenstown/)
-- [Sabbatical #10: Mackenzie Basin](https://darekkay.com/blog/sabbatical-10-mackenzie-basin/)
 
 <!-- @end-blog-posts -->
 
@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0195/0195-small.webp' alt='A blue local train mirrored in a body of water next to the rails. Cherry trees frame the train.' />
+<img src='https://photos.dariuszwinkler.com/photo/0196/0196-small.webp' alt='That Wānaka Tree surrounded by water at night.' />
 
 <!-- @end-photo -->
 
