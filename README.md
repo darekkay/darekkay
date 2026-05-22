@@ -26,7 +26,7 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-photo -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0196/0196-small.webp' alt='That Wānaka Tree surrounded by water at night.' />
+<img src='https://photos.dariuszwinkler.com/photo/0197/0197-small.webp' alt='A monochrome photo of a large waterfall.' />
 
 <!-- @end-photo -->
 
