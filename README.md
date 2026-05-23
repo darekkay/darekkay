@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #14: West Coast](https://darekkay.com/blog/sabbatical-14-west-coast/)
 - [Sabbatical #13: Wānaka](https://darekkay.com/blog/sabbatical-13-wanaka/)
 - [Sabbatical #12: Milford Sound](https://darekkay.com/blog/sabbatical-12-milford-sound/)
-- [Sabbatical #11: Queenstown](https://darekkay.com/blog/sabbatical-11-queenstown/)
 
 <!-- @end-blog-posts -->
 
