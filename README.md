@@ -14,9 +14,9 @@ In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), boar
 
 <!-- @begin-blog-posts -->
 
+- [Sabbatical #16: Kaikōura](https://darekkay.com/blog/sabbatical-16-kaikoura/)
 - [Sabbatical #15: Tasman-Marlborough](https://darekkay.com/blog/sabbatical-15-tasman-marlborough/)
 - [Sabbatical #14: West Coast](https://darekkay.com/blog/sabbatical-14-west-coast/)
-- [Sabbatical #13: Wānaka](https://darekkay.com/blog/sabbatical-13-wanaka/)
 
 <!-- @end-blog-posts -->
 
