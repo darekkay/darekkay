@@ -3,38 +3,54 @@ const { join } = require("path");
 
 const axios = require("axios");
 
+const SUMMARY_URL = "https://dariuszwinkler.com/summary.json";
 const README = join(__dirname, "README.md");
 
-const syncLatestBlogPosts = async (readmeContent) => {
-  const URL_BLOG_FEED = "https://darekkay.com/feed.json";
-  const response = await axios.get(URL_BLOG_FEED);
-  const feed = response.data;
-
-  const latestPosts = feed.items
-    .slice(0, 3)
-    .reduce((acc, post) => `${acc}- [${post.title}](${post.url})\n`, "\n\n");
+const renderDevPosts = (readmeContent, summary) => {
+  const latestPosts = summary.postsDev.reduce(
+    (acc, post) => `${acc}- [${post.title}](${post.url})\n`,
+    "\n\n",
+  );
 
   return readmeContent.replace(
-    /<!-- @begin-blog-posts -->([\s\S]*)<!-- @end-blog-posts -->/,
-    `<!-- @begin-blog-posts -->${latestPosts}\n<!-- @end-blog-posts -->`
+    /<!-- @begin-dev -->([\s\S]*)<!-- @end-dev -->/,
+    `<!-- @begin-dev -->${latestPosts}\n<!-- @end-dev -->`,
   );
 };
 
-const syncLatestPhoto = async (readmeContent) => {
-  const URL_LATEST_PHOTO = "https://photos.dariuszwinkler.com/latest.json";
-  const response = await axios.get(URL_LATEST_PHOTO);
-  const latestPhoto = response.data;
+const renderLifePosts = (readmeContent, summary) => {
+  const latestPosts = summary.postsLife.reduce(
+    (acc, post) => `${acc}- [${post.title}](${post.url})\n`,
+    "\n\n",
+  );
 
   return readmeContent.replace(
-    /<!-- @begin-photo -->([\s\S]*)<!-- @end-photo -->/,
-    `<!-- @begin-photo -->\n\n${latestPhoto.content_html}\n\n<!-- @end-photo -->`
+    /<!-- @begin-life -->([\s\S]*)<!-- @end-life -->/,
+    `<!-- @begin-life -->${latestPosts}\n<!-- @end-life -->`,
   );
+};
+
+const renderLatestPhoto = (readmeContent, summary) => {
+  const latestPhoto = summary.latestPhoto;
+
+  return readmeContent.replace(
+    /<!-- @begin-photography -->([\s\S]*)<!-- @end-photography -->/,
+    `<!-- @begin-photography -->\n\n<img src="${latestPhoto.url}" alt="${latestPhoto.alt}" />\n\n<!-- @end-photography -->`,
+  );
+};
+
+const fetchSummary = async () => {
+  const response = await axios.get(SUMMARY_URL);
+  return response.data;
 };
 
 const sync = async () => {
+  const summary = await fetchSummary();
   let readmeContent = readFileSync(README, "utf-8");
-  readmeContent = await syncLatestBlogPosts(readmeContent);
-  readmeContent = await syncLatestPhoto(readmeContent);
+
+  readmeContent = renderDevPosts(readmeContent, summary);
+  readmeContent = renderLifePosts(readmeContent, summary);
+  readmeContent = renderLatestPhoto(readmeContent, summary);
 
   writeFileSync(README, readmeContent);
 };

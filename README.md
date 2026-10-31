@@ -1,33 +1,45 @@
-## Hello, I'm Darek Kay! 👋
+## Hello, I'm Dariusz Winkler! 👋
 
-I'm a front-end developer and an [accessibility advocate](https://darekkay.com/tags/accessibility/). I love sharing what I know through [my blog](https://darekkay.com/), teaching and [speaking at conferences](https://github.com/darekkay/presentations). If you want to learn more about what I do, look at all the [awesome things](https://darekkay.com/projects/) I'm building to make people's lives better. 💖
+I'm a front-end developer and an [accessibility advocate](https://dariuszwinkler.com/tags/accessibility/). I love sharing what I know through [my blog](https://dariuszwinkler.com/), teaching and [speaking at conferences](https://github.com/darekkay/presentations). If you want to learn more about what I do, look at all the [awesome things](https://dariuszwinkler.com/projects/) I'm building to make people's lives better. 💖
 
-In my free time, I enjoy [photography](https://photos.dariuszwinkler.com/), board games, movies and playing instruments.
+Collecting hobbies is my hobby. I love traveling, climbing, making music, playing board games and seeking out new experiences.
 
 ### Follow me
 
-- [Blog](https://darekkay.com/)
+- [My digital home](https://dariuszwinkler.com/)
 - [Mastodon](https://fosstodon.org/@darekkay)
-- [Pixelfed](https://pixelfed.social/i/web/profile/425185433823763122)
+- [Pixelfed](https://pixelfed.social/darekkay)
 
-### Latest blog posts 📖
+### 👨‍💻 Solving web mysteries
 
-<!-- @begin-blog-posts -->
+<!-- @begin-dev} -->
 
-- [Sabbatical #18: Great Ocean Road](https://darekkay.com/blog/sabbatical-18-great-ocean-road/)
-- [Sabbatical #17: Melbourne](https://darekkay.com/blog/sabbatical-17-melbourne/)
-- [Sabbatical #16: Kaikōura](https://darekkay.com/blog/sabbatical-16-kaikoura/)
+- [Grab browser links and titles in one click](https://dariuszwinkler.com/blog/bookmarklet-copy-browser-tab/)
+- [Open Graph images: Format compatibility across platforms](https://dariuszwinkler.com/blog/open-graph-image-formats/)
+- [A guide to bookmarklets](https://dariuszwinkler.com/blog/bookmarklets/)
 
-<!-- @end-blog-posts -->
+<!-- @end-dev -->
 
-👉️ [View all blog posts](https://darekkay.com/blog/)
+👉️ [View all dev posts](https://dariuszwinkler.com/dev/)
 
-### Latest photo 📷️
+### 🤸️ Enjoying life
 
-<!-- @begin-photo -->
+<!-- @begin-life} -->
 
-<img src='https://photos.dariuszwinkler.com/photo/0197/0197-small.webp' alt='A monochrome photo of a large waterfall.' />
+- [Sabbatical #18: Great Ocean Road](https://dariuszwinkler.com/blog/sabbatical-18-great-ocean-road/)
+- [Sabbatical #17: Melbourne](https://dariuszwinkler.com/blog/sabbatical-17-melbourne/)
+- [Sabbatical #16: Kaikōura](https://dariuszwinkler.com/blog/sabbatical-16-kaikoura/)
 
-<!-- @end-photo -->
+<!-- @end-life -->
 
-👉️ [View all photos](https://photos.dariuszwinkler.com/)
+👉️ [View all life posts](https://dariuszwinkler.com/life/)
+
+### 📷 Capturing moments
+
+<!-- @begin-photography -->
+
+<img src="https://dariuszwinkler.com/photo/0197/0197-small.webp" alt="A monochrome photo of a large waterfall." />
+
+<!-- @end-photography -->
+
+👉️ [View all photography posts](https://dariuszwinkler.com/photography/)
