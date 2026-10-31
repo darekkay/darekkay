@@ -1,8 +1,6 @@
 const { readFileSync, writeFileSync } = require("fs");
 const { join } = require("path");
 
-const axios = require("axios");
-
 const SUMMARY_URL = "https://dariuszwinkler.com/summary.json";
 const README = join(__dirname, "README.md");
 
@@ -40,8 +38,9 @@ const renderLatestPhoto = (readmeContent, summary) => {
 };
 
 const fetchSummary = async () => {
-  const response = await axios.get(SUMMARY_URL);
-  return response.data;
+  const response = await fetch(SUMMARY_URL);
+  const data = await response.json();
+  return data;
 };
 
 const sync = async () => {

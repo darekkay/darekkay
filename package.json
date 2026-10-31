@@ -6,9 +6,7 @@
   "bugs": {
     "url": "https://github.com/darekkay/darekkay/issues"
   },
-  "dependencies": {
-    "axios": "0.27.2"
-  },
+  "dependencies": {},
   "homepage": "https://github.com/darekkay/darekkay#readme",
   "keywords": [],
   "license": "MIT",

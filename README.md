@@ -12,7 +12,7 @@ Collecting hobbies is my hobby. I love traveling, climbing, making music, playin
 
 ### 👨‍💻 Solving web mysteries
 
-<!-- @begin-dev} -->
+<!-- @begin-dev -->
 
 - [Grab browser links and titles in one click](https://dariuszwinkler.com/blog/bookmarklet-copy-browser-tab/)
 - [Open Graph images: Format compatibility across platforms](https://dariuszwinkler.com/blog/open-graph-image-formats/)
@@ -24,7 +24,7 @@ Collecting hobbies is my hobby. I love traveling, climbing, making music, playin
 
 ### 🤸️ Enjoying life
 
-<!-- @begin-life} -->
+<!-- @begin-life -->
 
 - [Sabbatical #18: Great Ocean Road](https://dariuszwinkler.com/blog/sabbatical-18-great-ocean-road/)
 - [Sabbatical #17: Melbourne](https://dariuszwinkler.com/blog/sabbatical-17-melbourne/)
