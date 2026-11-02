@@ -14,9 +14,9 @@ Collecting hobbies is my hobby. I love traveling, climbing, making music, playin
 
 <!-- @begin-dev -->
 
+- [My new digital home](https://dariuszwinkler.com/blog/digital-home/)
 - [Grab browser links and titles in one click](https://dariuszwinkler.com/blog/bookmarklet-copy-browser-tab/)
 - [Open Graph images: Format compatibility across platforms](https://dariuszwinkler.com/blog/open-graph-image-formats/)
-- [A guide to bookmarklets](https://dariuszwinkler.com/blog/bookmarklets/)
 
 <!-- @end-dev -->
 
