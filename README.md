@@ -38,7 +38,7 @@ Collecting hobbies is my hobby. I love traveling, climbing, making music, playin
 
 <!-- @begin-photography -->
 
-<img src="https://dariuszwinkler.com/photo/0197/0197-small.webp" alt="A monochrome photo of a large waterfall." />
+<img src="https://dariuszwinkler.com/photo/0198/0198-small.webp" alt="An ICM photo that looks like a painting. Golden leaves under a pergola are lighted by the sun." />
 
 <!-- @end-photography -->
 
