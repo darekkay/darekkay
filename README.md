@@ -38,7 +38,7 @@ Collecting hobbies is my hobby. I love traveling, climbing, making music, playin
 
 <!-- @begin-photography -->
 
-<img src="https://dariuszwinkler.com/photo/0198/0198-small.webp" alt="An ICM photo that looks like a painting. Golden leaves under a pergola are lighted by the sun." />
+<img src="https://dariuszwinkler.com/photo/0199/0199-small.webp" alt="A mural of a man wearing a white periwig and sunglasses with rainbow beams. A big sign on the wall reads 'London 1759'. A shadow casts a line from the sunglasses to a person walking on the street wearing sunglasses." />
 
 <!-- @end-photography -->
 
